@@ -1,0 +1,33 @@
+    ' Debug: delete this useless sub after
+    Private Sub CombineTestResultsIntoString(ByRef str As String)
+        str = ""
+        str += SaveResults.TotalScore
+
+        str += SaveResults.PureScore
+        str += SaveResults.StatisticsScore
+        str += SaveResults.MechanicsScore
+
+        str += SaveResults.ProofScore
+        str += SaveResults.InductionScore
+
+        str += SaveResults.ProbabilityScore
+        str += SaveResults.DistributionsScore
+
+        str += SaveResults.CollisionsScore
+        str += SaveResults.EnergyScore
+
+        str += SaveResults.InductionScore
+        str += SaveResults.CounterexampleScore
+        str += SaveResults.Integrating_E_Score
+        str += SaveResults.Integrating_LN_Score
+
+        str += SaveResults.VennDiagramsScore
+        str += SaveResults.LawsOfProbabilityScore
+        str += SaveResults.BinomialScore
+        str += SaveResults.NormalScore
+
+        str += SaveResults.ElasticIn2DScore
+        str += SaveResults.ObliqueScore
+        str += SaveResults.KinecticScore
+        str += SaveResults.GravitationalScore
+    End Sub

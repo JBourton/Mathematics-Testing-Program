@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="BINOMIAL1_ANS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\STATISTICS\DISTRIBUTIONS\BINOMIAL\BINOMIAL1\BINOMIAL1 ANS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BINOMIAL1_INF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\STATISTICS\DISTRIBUTIONS\BINOMIAL\BINOMIAL1\BINOMIAL1 INF.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="BINOMIAL1_QUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\STATISTICS\DISTRIBUTIONS\BINOMIAL\BINOMIAL1\BINOMIAL1 QUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Blue_Folder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Icons\Blue Folder.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Circle_Green" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Design Images\Circle Green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="COUNTEREXAMPLE1_ANS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\PROOF\COUNTEREXAMPLE\COUNTEREXAMPLE1\COUNTEREXAMPLE1 ANS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="COUNTEREXAMPLE1_INF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\PROOF\COUNTEREXAMPLE\COUNTEREXAMPLE1\COUNTEREXAMPLE1 INF.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="COUNTEREXAMPLE1_QUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\PROOF\COUNTEREXAMPLE\COUNTEREXAMPLE1\COUNTEREXAMPLE1 QUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="COUNTEREXAMPLE2_ANS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\PROOF\COUNTEREXAMPLE\COUNTEREXAMPLE2\COUNTEREXAMPLE2 ANS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="COUNTEREXAMPLE2_INF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\PROOF\COUNTEREXAMPLE\COUNTEREXAMPLE2\COUNTEREXAMPLE2 INF.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="COUNTEREXAMPLE2_QUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\PROOF\COUNTEREXAMPLE\COUNTEREXAMPLE2\COUNTEREXAMPLE2 QUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ELASTICIN2D1_ANS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\MECHANICS\COLLISIONS\ELASTICIN2D\ELASTICIN2D Q1\ELASTICIN2D1 ANS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ELASTICIN2D1_INF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\MECHANICS\COLLISIONS\ELASTICIN2D\ELASTICIN2D Q1\ELASTICIN2D1 INF.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="ELASTICIN2D1_QUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\MECHANICS\COLLISIONS\ELASTICIN2D\ELASTICIN2D Q1\ELASTICIN2D1 QUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ELASTICIN2D2_ANS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\MECHANICS\COLLISIONS\ELASTICIN2D\ELASTICIN2D Q2\ELASTICIN2D2 ANS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ELASTICIN2D2_INF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\MECHANICS\COLLISIONS\ELASTICIN2D\ELASTICIN2D Q2\ELASTICIN2D2 INF.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="ELASTICIN2D2_QUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\MECHANICS\COLLISIONS\ELASTICIN2D\ELASTICIN2D Q2\ELASTICIN2D2 QUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Folder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Icons\Folder.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GRAVITATIONAL1_ANS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\MECHANICS\ENERGY\GRAVITATIONAL\GRAVITATIONAL1\GRAVITATIONAL1 ANS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GRAVITATIONAL1_INF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\MECHANICS\ENERGY\GRAVITATIONAL\GRAVITATIONAL1\GRAVITATIONAL1 INF.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="GRAVITATIONAL1_QUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\MECHANICS\ENERGY\GRAVITATIONAL\GRAVITATIONAL1\GRAVITATIONAL1 QUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="INDUCTION01_ANS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\PROOF\INDUCTION\INDUCTION1\INDUCTION01 ANS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="INDUCTION02_ANS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\PROOF\INDUCTION\INDUCTION2\INDUCTION02 ANS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="INDUCTION1_INF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\PROOF\INDUCTION\INDUCTION1\INDUCTION1 INF.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="INDUCTION1_QUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\PROOF\INDUCTION\INDUCTION1\INDUCTION1 QUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="INDUCTION2_INF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\PROOF\INDUCTION\INDUCTION2\INDUCTION2 INF.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="INDUCTION2_QUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\PROOF\INDUCTION\INDUCTION2\INDUCTION2 QUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="INTEGRATINGLN_1_QUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\INTEGRATION\INTEGRATING LN\INTEGRATINGLN#1\INTEGRATINGLN 1 QUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="INTEGRATING_E1_ANS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\INTEGRATION\INTEGRATING E\INTEGRATING E1\INTEGRATING E1 ANS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="INTEGRATING_E1_INF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\INTEGRATION\INTEGRATING E\INTEGRATING E1\INTEGRATING E1 INF.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="INTEGRATING_E1_QUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\INTEGRATION\INTEGRATING E\INTEGRATING E1\INTEGRATING E1 QUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="INTEGRATING_LN1_ANS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\INTEGRATION\INTEGRATING LN\INTEGRATINGLN#1\INTEGRATING LN1 ANS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="INTEGRATING_LN1_INF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\PUREMATHS\INTEGRATION\INTEGRATING LN\INTEGRATINGLN#1\INTEGRATING LN1 INF.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="KINETIC1_ANS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\MECHANICS\ENERGY\KINETIC\KINETIC1\KINETIC1 ANS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KINETIC1_INF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\MECHANICS\ENERGY\KINETIC\KINETIC1\KINETIC1 INF.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="KINETIC1_QUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\MECHANICS\ENERGY\KINETIC\KINETIC1\KINETIC1 QUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LAWSOFPROBABILITY1_ANS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\STATISTICS\PROBABILITY\LAWSOFPROBABILITY\LAWSOFPROBABILITY1\LAWSOFPROBABILITY1 ANS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LAWSOFPROBABILITY1_INF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\STATISTICS\PROBABILITY\LAWSOFPROBABILITY\LAWSOFPROBABILITY1\LAWSOFPROBABILITY1 INF.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="LAWSOFPROBABILITY1_QUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\STATISTICS\PROBABILITY\LAWSOFPROBABILITY\LAWSOFPROBABILITY1\LAWSOFPROBABILITY1 QUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mathematics_Circle_Neon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Design Images\Mathematics Circle Neon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Maths_background_main" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Design Images\Maths background main.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NORMAL1_ANS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\STATISTICS\DISTRIBUTIONS\NORMAL\NORMAL1\NORMAL1 ANS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NORMAL1_INF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\STATISTICS\DISTRIBUTIONS\NORMAL\NORMAL1\NORMAL1 INF.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="NORMAL1_QUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\STATISTICS\DISTRIBUTIONS\NORMAL\NORMAL1\NORMAL1 QUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OBLIQUE1_ANS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\MECHANICS\COLLISIONS\OBLIQUE\OBLIQUE Q1\OBLIQUE1 ANS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OBLIQUE1_INF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\MECHANICS\COLLISIONS\OBLIQUE\OBLIQUE Q1\OBLIQUE1 INF.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="OBLIQUE1_QUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\MECHANICS\COLLISIONS\OBLIQUE\OBLIQUE Q1\OBLIQUE1 QUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="People" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Design Images\People.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Question_Mark_Neon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Design Images\Question Mark Neon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Question_Mark_Neon_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Design Images\Question Mark Neon 2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Question_Mark_Neon_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Design Images\Question Mark Neon 3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quiz_Sign_Neon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Design Images\Quiz Sign Neon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Star_Sign_Neon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Design Images\Star Sign Neon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Symbols" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Design Images\Symbols.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VENNDIAGRAMS1_ANS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\STATISTICS\PROBABILITY\VENNDIAGRAMS\VENNDIAGRAMS1\VENNDIAGRAMS1 ANS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VENNDIAGRAMS1_INF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\STATISTICS\PROBABILITY\VENNDIAGRAMS\VENNDIAGRAMS1\VENNDIAGRAMS1 INF.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="VENNDIAGRAMS1_QUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Questions\Modules\STATISTICS\PROBABILITY\VENNDIAGRAMS\VENNDIAGRAMS1\VENNDIAGRAMS1 QUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="White_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Design Images\White background.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

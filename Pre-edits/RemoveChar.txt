@@ -1,0 +1,4 @@
+    Function RemoveChar(ByVal myString As String, ByVal Position As Integer)
+        ' Remove a character at a specified position from a string
+        If myString <> String.Empty Then Return myString.Remove(Position, 1) Else Return String.Empty
+    End Function

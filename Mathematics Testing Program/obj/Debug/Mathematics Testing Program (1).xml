@@ -1,0 +1,448 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Mathematics Testing Program
+</name>
+</assembly>
+<members>
+<member name="T:Mathematics_Testing_Program.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.BINOMIAL1_ANS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.BINOMIAL1_INF">
+<summary>
+  Looks up a localized string similar to BINOMIAL1
+MULTIPLECHOICE
+4
+STATISTICS
+DISTRIBUTIONS
+BINOMIAL
+B
+5
+FALSE
+FALSE.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.BINOMIAL1_QUE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.Blue_Folder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.Circle_Green">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.COUNTEREXAMPLE1_ANS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.COUNTEREXAMPLE1_INF">
+<summary>
+  Looks up a localized string similar to COUNTEREXAMPLE1
+FILLINMISSINGLINE
+100
+PUREMATHS
+PROOF
+COUNTEREXAMPLE
+p1xp2x...xp(n+1)
+3
+FALSE
+FALSE
+.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.COUNTEREXAMPLE1_QUE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.COUNTEREXAMPLE2_ANS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.COUNTEREXAMPLE2_INF">
+<summary>
+  Looks up a localized string similar to COUNTEREXAMPLE2
+FILLINMISSINGLINE
+100
+PUREMATHS
+PROOF
+COUNTEREXAMPLE
+x^3=p^3/q^3
+1
+FALSE
+FALSE.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.COUNTEREXAMPLE2_QUE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.ELASTICIN2D1_ANS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.ELASTICIN2D1_INF">
+<summary>
+  Looks up a localized string similar to ELASTICIN2D1
+MULTIPLECHOICE
+4
+MECHANICS
+COLLISIONS
+ELASTICIN2D
+A
+3
+FALSE
+FALSE.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.ELASTICIN2D1_QUE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.ELASTICIN2D2_ANS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.ELASTICIN2D2_INF">
+<summary>
+  Looks up a localized string similar to ELASTICIN2D2
+MULTIPLECHOICE
+4
+MECHANICS
+COLLISIONS
+ELASTICIN2D
+B
+7
+FALSE
+FALSE.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.ELASTICIN2D2_QUE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.Folder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.GRAVITATIONAL1_ANS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.GRAVITATIONAL1_INF">
+<summary>
+  Looks up a localized string similar to GRAVITATIONAL1
+MULTIPLECHOICE
+4
+MECHANICS
+ENERGY
+GRAVITATIONAL
+A
+3
+FALSE
+FALSE.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.GRAVITATIONAL1_QUE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.INDUCTION01_ANS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.INDUCTION02_ANS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.INDUCTION1_INF">
+<summary>
+  Looks up a localized string similar to INDUCTION1
+MULTIPLECHOICE
+5
+PUREMATHS
+PROOF
+INDUCTION
+C
+7
+FALSE
+FALSE.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.INDUCTION1_QUE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.INDUCTION2_INF">
+<summary>
+  Looks up a localized string similar to INDUCTION2
+MULTIPLECHOICE
+4
+PUREMATHS
+PROOF
+INDUCTION
+C
+5
+FALSE
+FALSE.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.INDUCTION2_QUE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.INTEGRATING_E1_ANS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.INTEGRATING_E1_INF">
+<summary>
+  Looks up a localized string similar to INTEGRATING_E1
+MULTIPLECHOICE
+4
+PUREMATHS
+INTEGRATION
+INTEGRATING#E
+B
+9
+FALSE
+FALSE.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.INTEGRATING_E1_QUE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.INTEGRATING_LN1_ANS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.INTEGRATING_LN1_INF">
+<summary>
+  Looks up a localized string similar to INTEGRATING_LN1
+MULTIPLECHOICE
+4
+PUREMATHS
+INTEGRATION
+INTEGRATING#LN
+C
+4
+FALSE
+FALSE.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.INTEGRATINGLN_1_QUE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.KINETIC1_ANS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.KINETIC1_INF">
+<summary>
+  Looks up a localized string similar to KINETIC1
+FILLINMISSINGLINE
+100
+MECHANICS
+ENERGY
+KINETIC
+96
+4
+FALSE
+FALSE.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.KINETIC1_QUE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.LAWSOFPROBABILITY1_ANS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.LAWSOFPROBABILITY1_INF">
+<summary>
+  Looks up a localized string similar to LAWSOFPROBABILITY1
+MULTIPLECHOICE
+4
+STATISTICS
+PROBABILITY
+LAWSOFPROBABILITY
+A
+6
+FALSE
+FALSE.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.LAWSOFPROBABILITY1_QUE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.Mathematics_Circle_Neon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.Maths_background_main">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.NORMAL1_ANS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.NORMAL1_INF">
+<summary>
+  Looks up a localized string similar to NORMAL1
+MULTIPLECHOICE
+4
+STATISTICS
+DISTRIBUTIONS
+NORMAL
+A
+5
+FALSE
+FALSE.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.NORMAL1_QUE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.OBLIQUE1_ANS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.OBLIQUE1_INF">
+<summary>
+  Looks up a localized string similar to OBLIQUE1
+FILLINMISSINGLINE
+100
+MECHANICS
+COLLISIONS
+OBLIQUE
+v=u*sqrt(2/3)
+9
+FALSE
+FALSE
+.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.OBLIQUE1_QUE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.People">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.Question_Mark_Neon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.Question_Mark_Neon_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.Question_Mark_Neon_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.Quiz_Sign_Neon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.Star_Sign_Neon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.Symbols">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.VENNDIAGRAMS1_ANS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.VENNDIAGRAMS1_INF">
+<summary>
+  Looks up a localized string similar to VENNDIAGRAMS1
+MULTIPLECHOICE
+4
+STATISTICS
+PROBABILITY
+VENNDIAGRAMS
+A
+2
+FALSE
+FALSE.
+</summary>
+</member>
+<member name="P:Mathematics_Testing_Program.My.Resources.Resources.VENNDIAGRAMS1_QUE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

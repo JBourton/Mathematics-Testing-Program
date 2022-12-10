@@ -1,4 +1,5 @@
 <u> Images were _Mathematics Testing Program_ were created by the following sources: </u>
+
 * [Biology Quiz Background](https://www.deviantart.com/manisha-prabhakar/art/Biology-Quiz-Background-713133128) by Manisha Prabhakar
 * [Math linear colorful symbol](https://www.dreamstime.com/stock-illustration-math-linear-colorful-symbol-vector-bright-round-school-education-mathematical-circle-background-design-image75246685) by Sn333g (user ID 75246685 on [Dreamstime.com](www.dreamstime.com))
 * [Simple math background](https://www.freelancer.sg/contest/design-me-simple-math-sign-background-pattern-very-easy-one-190907) by Viango Studios

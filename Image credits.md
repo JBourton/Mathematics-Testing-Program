@@ -8,4 +8,5 @@
 * [Neon quiz background 3](https://www.vectorstock.com/royalty-free-vectors/vectors-by_MicroOne) by [Ivan](https://stock.adobe.com/contributor/206607664/ivan?load_type=author&prev_url=detail)
 * [Neon quiz sign](https://www.vectorstock.com/royalty-free-vector/neon-lettering-quiz-on-a-brick-wall-background-vector-24642873) by [Tatyanal](https://www.vectorstock.com/royalty-free-vectors/vectors-by_TatyanaL)
 * [Neon star sign](https://www.dreamstime.com/quiz-neon-text-banner-brick-wall-questions-team-game-quiz-night-poster-pub-neon-signboard-night-bright-quiz-neon-text-banner-image182186614) by [Liubov Suvorova](https://www.dreamstime.com/lubahk90_info)
-
+* [School pattern](https://www.dreamstime.com/modern-seamless-pattern-puzzle-competition-answering-quiz-questions-intellectual-game-elements-intelligence-intellect-image141652806) by  by [Ernest Akayeu](https://www.dreamstime.com/goodstudiominsk_info)
+* [Abstract white background](https://www.istockphoto.com/portfolio/bgblue?mediatype=illustration) by [bgblue](https://www.bgblue.com/)

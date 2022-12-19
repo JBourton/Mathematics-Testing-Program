@@ -11,3 +11,9 @@
 * [Neon star sign](https://www.dreamstime.com/quiz-neon-text-banner-brick-wall-questions-team-game-quiz-night-poster-pub-neon-signboard-night-bright-quiz-neon-text-banner-image182186614) by [Liubov Suvorova](https://www.dreamstime.com/lubahk90_info)
 * [School pattern](https://www.dreamstime.com/modern-seamless-pattern-puzzle-competition-answering-quiz-questions-intellectual-game-elements-intelligence-intellect-image141652806) by  by [Ernest Akayeu](https://www.dreamstime.com/goodstudiominsk_info)
 * [Abstract white background](https://www.istockphoto.com/portfolio/bgblue?mediatype=illustration) by [bgblue](https://www.bgblue.com/)
+
+The authors of the questions used in this quiz are the following exam boards:
+* [AQA](https://www.aqa.org.uk/)
+* [Pearson](https://www.pearson.com/)
+* [OCR](https://ocr.org.uk/)
+* [WJEC](https://www.wjec.co.uk/)

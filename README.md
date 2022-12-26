@@ -31,4 +31,7 @@ You can do this by selecting a student, choosing a module you wish to check thei
 
 You can also view the progress of the different classes over time.
 
-*Note: account data will be stored locally in your machine only*
+
+Please note, this program was not created for commercial use, and is not designed to be used in the real world. The purpose of this project was to demonstrate some of the programming techniques I have learnt at A Level, and to learn more skills on the job.
+
+Please refer to the project writeup pdf located in the github repository for more details.

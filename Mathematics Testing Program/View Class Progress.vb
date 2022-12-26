@@ -156,6 +156,7 @@ Public Class frmViewClassProgress
     Private Function CalculateStudentAttemptsAvg(ByVal ResultsLine As String)
         ' Return the average of a single line from sInfo(n).StudentAttempts
         Dim Results(3) As Integer
+
         For i = 0 To 2
             Results(i) = CInt(ResultsLine.Substring((3 * i), 3))
         Next
